@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 poc
 
 ```
-python3 tppoc.py -u http://www.xxx.com
+python3 tppoc.py -u http://www.yyy.com
 ```
 
 exp
